@@ -1,9 +1,9 @@
 {
   "pluginId": "neodex.demarrage",
   "repo": "NDesumeur/neodex-plugin-demarrage",
-  "version": "1.1.2",
-  "sha256": "10cb6c15d0c34368ee1b5334bb1080821c00f566ea854e50cb02e7930a353544",
-  "approvedAt": "2026-11-08T12:10:47.144Z",
+  "version": "1.1.3",
+  "sha256": "bd5badb7fcd284f8f172c16ba173d4bc6a59636c24aee1fdd77b282d71c296fc",
+  "approvedAt": "2026-11-08T14:45:27.123Z",
   "neobase": ">=4.0.0",
-  "signature": "9vBuSsPnHaUnpTFoQdORi9iqHV+zFP8/4v7drF4506rDmfSUkDrkXF+1Vw5WqRbPGXAMD84bgDlKwaO1c4SfDg=="
+  "signature": "91HVHRPDmN22VeFaL8sQ8qE3CbIooDSwv+d55R6I0iVbeUhSLAErMN8neij7H0m92s0fm269uIKoe4D+VeskBg=="
 }
