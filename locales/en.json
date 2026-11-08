@@ -1,0 +1,18 @@
+{
+ "ACTIVÉ": "ENABLED",
+ "ACTUALISER": "UPDATE",
+ "ADMIN": "ADMIN",
+ "Ce plugin doit être approuvé par NeoDex pour s'ouvrir.": "This plugin must be approved by NeoDex to open.",
+ "Ce programme est lancé pour tous les utilisateurs : seul un administrateur peut le changer (Gestionnaire des tâches → Démarrage).": "This program is launched for all users: only an administrator can change it (Task Manager → Startup).",
+ "DÉSACTIVÉ": "DISABLED",
+ "Démarrage": "Startup",
+ "Impossible :": "Impossible :",
+ "Lecture…": "Reading…",
+ "Les programmes qui se lancent avec Windows, avec leur icône, leur origine et leur commande, et un interrupteur pour chacun : comme l'onglet Démarrage du Gestionnaire des tâches, avec les mêmes réglages. Désactiver ne désinstalle rien, le changement compte au prochain démarrage ; les programmes de tous les utilisateurs restent réservés à l'administrateur.": "The programs that launch with Windows, with their icon, origin and command, and a switch for each: like the Task Manager's Startup tab, using the same settings. Disabling uninstalls nothing, the change applies at the next startup; programs for all users stay reserved to the administrator.",
+ "Les programmes qui se lancent tout seuls quand tu allumes le PC. En désactiver un ne le désinstalle pas : il ne démarre simplement plus tout seul, comme dans le Gestionnaire des tâches. Le changement compte au prochain démarrage.": "Programs that launch by themselves when you turn on the PC. Disabling one does not uninstall it: it simply no longer starts on its own, like in Task Manager. The change counts at the next start.",
+ "Rien n'est synchronisé : les programmes au démarrage sont ceux de ce PC.": "Nothing is synchronized: the programs at startup are those of this PC.",
+ "activé": "activated",
+ "au prochain démarrage de Windows": "the next time you start Windows",
+ "ne se lancera plus": "will no longer launch",
+ "se lancera": "will launch"
+}

@@ -3,7 +3,7 @@
   "name": "Démarrage",
   "version": "1.1.1",
   "author": "NDesumeur",
-  "description": "Les programmes lancés avec Windows, que tu actives ou désactives comme dans le gestionnaire des tâches.",
+  "description": "Les programmes qui se lancent avec Windows, avec leur icône, leur origine et leur commande, et un interrupteur pour chacun : comme l'onglet Démarrage du Gestionnaire des tâches, avec les mêmes réglages. Désactiver ne désinstalle rien, le changement compte au prochain démarrage ; les programmes de tous les utilisateurs restent réservés à l'administrateur.",
   "icon": "icon.png",
   "entry": "index.js",
   "view": "demarrage",
